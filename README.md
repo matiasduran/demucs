@@ -1,4 +1,4 @@
-# Music Source Separation in the Waveform Domain
+# Music Source Separation in the Waveform Domain!!
 
 We provide an implementation of Demucs and Conv-Tasnet for music source separation on the [MusDB][musdb] dataset.
 They can separate drums, bass and vocals from the rest with state-of-the-art results, surpassing previous waveform or spectrogram based methods.
@@ -264,3 +264,6 @@ It was originally released under the MIT License updated to support multiple aud
 [audio]: https://ai.honu.io/papers/demucs/index.html
 [spleeter]: https://github.com/deezer/spleeter
 [soundcloud]: https://soundcloud.com/voyageri/sets/source-separation-in-the-waveform-domain
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA4NDYxOTA1Ml19
+-->
